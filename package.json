@@ -46,7 +46,7 @@
     "glob": "7.1.6",
     "moment": "2.24.0",
     "mongo-parse": "2.1.0",
-    "mongodb": "2.2.36"
+    "mongodb": "3.1.13"
   },
   "devDependencies": {
     "chai": "3.5.0",
